@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @nercolinianaclara
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Sobre Mim
+
+- 👋 Olá,meu nome é @nercolinianaclara
+- 👀 Estou interessada em aprender programação 
+- 🌱 Estou aprendendo a programar recentemente
 
 <!---
 nercolinianaclara/nercolinianaclara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
