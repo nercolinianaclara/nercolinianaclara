@@ -1,6 +1,7 @@
 # Sobre Mim
 
 - 👋 Olá,meu nome é @nercolinianaclara
+- 👍:Meu email de contato é ana.nercolini@escola.pr.gov.br
 - 👀 Estou interessada em aprender programação 
 - 🌱 Estou aprendendo a programar recentemente
 
